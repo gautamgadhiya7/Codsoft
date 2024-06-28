@@ -1,11 +1,11 @@
-/* Resetting default styles */
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/* Styling the header */
+
 header {
     width: 100%;
     height: 100vh;
@@ -14,7 +14,7 @@ header {
     font-family: sans-serif;
 }
 
-/* Styling the navigation */
+
 nav {
     width: 100%;
     height: 100px;
@@ -59,7 +59,7 @@ nav {
     border: 1px solid indianred;
 }
 
-/* Styling the header section */
+
 .header {
     max-width: 650px;
     position: absolute;
@@ -93,7 +93,7 @@ nav {
     border-radius: 8px;
 }
 
-/* Section Styles */
+
 section {
     padding: 60px 20px;
     text-align: center;
@@ -113,7 +113,6 @@ section p {
     line-height: 1.6em;
 }
 
-/* Services Section with Grid */
 #services {
     background-color: #f9f9f9;
     padding: 60px 40px;
@@ -148,12 +147,12 @@ section p {
     margin: 10px 0;
 }
 
-/* About Section */
+
 #about {
     background-color: #eeeeee;
 }
 
-/* Contact Section with Form */
+
 #contact {
     background-color: #f9f9f9;
     padding: 60px 40px;
@@ -209,7 +208,7 @@ section p {
     border: 1px solid indianred;
 }
 
-/* Footer Styles */
+
 footer {
     background-color: #333;
     color: white;
